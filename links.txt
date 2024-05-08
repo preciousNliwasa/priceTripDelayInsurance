@@ -1,0 +1,5 @@
+phew - https://github.com/preciousNliwasa/phew
+operation expenses
+	hosting and database(render) - https://render.com/pricing#compute
+	payment gateway(authorize.net) - https://www.authorize.net/sign-up/pricing.html
+us-inflation - https://knoema.com/kyaewad/us-inflation-forecast-2022-2023-and-long-term-to-2030-data-and-charts
